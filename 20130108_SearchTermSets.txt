@@ -1,0 +1,299 @@
+"08-L-IPEF-020"
+"08-L-IPEF-080"
+"124 %"
+"124 percent"
+"124%"
+"2009-007"
+"adverse event*"
+"B cep"
+"B cepacia"
+"B sapacia"
+"B sepacia"
+"B. cep"
+"B. cepacia"
+"B. sapacia"
+"B. sepacia"
+"batch review*"
+"BCM 198"
+"beyond compliance"
+"black material*"
+"black speck*"
+"Burkholderia cepacia"
+"Carolina Logistics"
+"change control"
+"Class I"
+"Class II"
+"compliance excellence"
+"comprehensive action plan"
+"Corporate Center Review"
+"customer complaint*"
+"D-050-2010"
+"Eby Brown" AND (list* OR vial*)
+"Ernesto Renzi"
+"field alert"
+"foreign material*"
+"good manufacturing practice*"
+"gram negative*"
+"internal audit" AND ("Fort Washington" OR "Las Piedras")
+"John Erdner"
+"line 4" AND metal
+"market action"
+"non-conformance"
+"o-ring*"
+"out {of} spec*"
+"out {of} trend"
+"quality notification"
+"RC-591" AND grow*
+"RC-591" AND hit
+"RC-591" AND test*
+"Sell-Thru"
+"Strategy Review"
+"sub potent"
+"super potent"
+(McNeil OR MCH) AND (NCR* OR "Non-Conformance Report")
+(McNeil OR MCH) AND audit*
+(McNeil OR MCH) AND budget*
+(McNeil OR MCH) AND headcount*
+(McNeil OR MCH) AND inspect*
+(McNeil OR MCH) AND remov*
+(McNeil OR MCH) AND retriev*
+(McNeil OR MCH) AND sample*
+(McNeil OR MCH) AND withdraw*
+021
+07CMC011
+07DMC022
+07DMC024
+07FMC032
+07FMC033
+07GMC038
+07GMC039
+07HMC045
+07HMC051
+07HMC053
+07JMC064
+07JMC069
+07JMC070
+07JMC071
+07XMC055
+07XMC058
+07XMC062
+08AMC002
+08AMC005
+08BMC013
+08BMC020
+08CMC026
+08DMC029
+08EMC037
+08EMC039
+08FMC044
+08FMC045
+08GMC050
+08GMC053
+08GMC063
+08GMC065
+08JMC103
+08JMC109
+08JMC110
+08JMC111
+08KMC124
+08KMC127
+08KMC131
+08KMC132
+08XMC093
+08XMC094
+08XMC095
+090MC096
+090MC097
+090MC099
+09AMCOIO
+09BMC034
+09CMC036
+09CMC040
+09CMC041
+09EMC075
+09EMC076
+09EMC079
+09JMC118
+09JMC126
+09KMC133
+09KMC134
+09XMC114
+09XMC116
+1002220001
+1003200096
+1003220204
+100420018
+1005200046
+483
+803200086
+80320086
+803240091
+805200082
+805200188
+903200210
+903200339
+903220415
+903220449
+904200086
+904200222
+942
+943
+ABA022
+ABA168
+ABA264
+ABA544
+ABA566
+ABA567
+ABA574
+ABA619
+ABAOOS
+ACA002
+ACA003
+ACA004
+ACA024
+ACA025
+ACAOOS
+ADA194
+ADA259
+ADC002
+ADM074
+AECOOS
+AFA018
+AFA060
+AFAIOO
+AFCOOS
+agitator*
+AJA008
+AJA119
+ALA026
+Alcan*
+Alcon
+Amcon AND (list* OR vial*)
+ASA202
+ASA206
+Avicel AND grow*
+Avicel AND hit
+Avicel AND test*
+bacteri*
+BCM155
+Brenda NEAR3 Davis
+CAPA
+Catalent*
+CCR
+ceramic
+cGMP*
+Chambers AND (list* OR vial*)
+CLS
+collar*
+compliance AND FDA
+compliance NEAR5 call
+contamina*
+Coremark AND (list* OR vial*)
+corrective AND action
+cylinder*
+Davenport AND (list* OR vial*)
+earthy
+Enterobacter*
+equipment NEAR2 maintain*
+FDA AND "warning letter"
+FDA AND complian*
+FDA AND inspect*
+FDA AND meet*
+filler*
+flake* AND metal
+FMC AND 800
+FMC AND agree*
+FMC AND audit
+FMC AND bag*
+FMC AND cull*
+FMC AND lot*
+FMC AND spec*
+FMC AND visit
+Gabriele NEAR2 Cassanelli
+GMP*
+Hackney AND (list* OR vial*)
+IMA
+IMALife
+IMANorthAmerica
+inject* NEAR5 water
+Inmar
+Iwasinska
+Javier NEAR2 Estrada
+Jesse NEAR3 Wu
+LEGO
+McKinsey
+mdgc.com
+metal NEAR3 metal
+microanalytic*
+moldy
+Motrin AND "Carolina Logistics"
+Motrin AND 8*
+Motrin AND audit
+Motrin AND CLS
+Motrin AND dissol*
+Motrin AND Inmar
+Motrin AND recall*
+Motrin AND stability
+Motrin AND vial
+musty
+Neve
+nonconformance
+OOS
+OOT
+pallet*
+Parada*
+particle*
+particulate*
+PCH
+perspectives NEAR3 decentralization
+Pfizer
+piece* AND metal
+piston*
+preventive AND action
+QN
+quality AND assess*
+quality AND audit
+quality AND budget
+quality AND capital
+quality AND expenditure
+quality AND fail*
+quality AND head*
+quality AND investigat*
+quality AND train*
+Quantic
+RC591 AND grow*
+RC591 AND hit
+RC591 AND test*
+recall*
+residu*
+scoring
+scrap* AND metal
+SDA149
+shaving* AND metal
+SHC003
+SHC004
+Southco AND (list* OR vial*)
+SPA058
+SPAOOS
+steril* NEAR3 water
+storage NEAR2 tank
+subpotent
+superpotent
+surge NEAR2 tank
+syringe*
+TAR AND odor
+TBA
+TBP
+tribromoanisole
+Tylenol AND odor
+uncharacteristic* NEAR3 odor*
+uncharacteristic* NEAR3 smell*
+validat* AND "1,000"
+validat* AND 1000
+validat* AND tank*
+valve*
+Viton
+Waukesha
+wood*
+rubik*
+micro*
